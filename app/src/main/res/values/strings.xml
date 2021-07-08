@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocatingAPlace</string>
+    <string-array name="zoneItems">
+        <item>North</item>
+        <item>Central</item>
+        <item>East</item>
+    </string-array>
+</resources>
